@@ -2,11 +2,6 @@
 
 # 🧠 MCP and A2A Codelabs Assignment
 
-**Due Date:** Sunday, October 26, 11:59 PM  
-**Total Points:** 200  
-**Submission:** GitHub Repository URL + Video Walkthroughs  
-
----
 
 ## 🎯 Objective
 
